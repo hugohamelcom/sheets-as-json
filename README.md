@@ -18,7 +18,7 @@ To use this script, deploy it as a web app in Google Apps Script. Follow these s
    - Click on `Extensions` -> `Apps Script`.
 
 2. **Paste the Script:**
-   - Add the provided script into the editor.
+   - Add the provided `Code.gs` script into the editor.
 
 3. **Save the Script:**
    - Click on the disk icon or press `Ctrl + S` to save your script.
